@@ -1,6 +1,6 @@
 # Porfolio Michele De Iulio
 
-##Python
+## Python
 Step 1
 Script Python che itera in ordine alfabetico sui file della cartella files e, a seconda del tipo (audio, documento, immagine), li sposta nella relativa sottocartella. Se la sottocartella non esiste, lo script dovrà crearla automaticamente.
 
