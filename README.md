@@ -27,6 +27,8 @@ Ci soffermeremo sulla sostenibilità alimentare e quindi come la produzione e di
 Obiettivo: A partire dai dati inerenti alla produzione e distribuzione mondiale di alimenti e mangimi viene analizzato l'impatto che questi hanno sull'ambiente; e attraverso un altro dataset che riguarda l'aumento delle temperature dei vari Paesi scoprire se ci sono correlazioni
 <br>
 
+
+
 # [Progetto 3: Soddisfazione dei passeggeri delle compagnie aeree](https://github.com/micheledeiulio/Progetto-Finale-Data-Science)
 
 In questo progetto ho un dataset contenente diversi fattori che influenzano la soddisfazione dei passeggeri delle compagnie aeree.
