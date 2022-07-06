@@ -13,7 +13,7 @@ Aggiungere al notebook dello Step 1 uno script che itera sulla sottocartella ima
 - larghezza dell'immagine, in pixel
 - se l'immagine è in scala di grigio, la colonna grayscale indica la media dei valori dell'unico livello di colore
 - se l'immagine è a colori, le altre colonne indicano la media dei valori di ogni livello di colore
-
+<br>
 
 
 
