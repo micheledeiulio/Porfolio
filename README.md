@@ -1,4 +1,4 @@
-# Progetto 1: Python
+# [Progetto 1: Python](https://github.com/micheledeiulio/Python)
 ## Step 1
 Script Python che itera in ordine alfabetico sui file della cartella files e, a seconda del tipo (audio, documento, immagine), li sposta nella relativa sottocartella. Se la sottocartella non esiste, lo script dovrà crearla automaticamente.
 
@@ -16,7 +16,7 @@ Aggiungere al notebook dello Step 1 uno script che itera sulla sottocartella ima
 Per maggiori dettagli sugli step eseguiti vedere la cartella "fileorganizer".
 
 
-# Progetto 2: Produzione e distribuzione mondiale di alimenti e l'impatto sull'ambiente
+# [Progetto 2: Produzione e distribuzione mondiale di alimenti e l'impatto sull'ambiente](https://github.com/micheledeiulio/Data-Manipolation-and-Visualization)
 La Commissione Mondiale sull’Ambiente e lo Sviluppo definisce lo sviluppo sostenibile come lo sviluppo che «soddisfa i bisogni del presente senza compromettere la capacità delle future generazioni di soddisfare i propri».
 
 La sostenibilità è un tema centrale che riguarda qualsiasi ambito.
@@ -26,7 +26,7 @@ Ci soffermeremo sulla sostenibilità alimentare e quindi come la produzione e di
 Obiettivo: A partire dai dati inerenti alla produzione e distribuzione mondiale di alimenti e mangimi viene analizzato l'impatto che questi hanno sull'ambiente; e attraverso un altro dataset che riguarda l'aumento delle temperature dei vari Paesi scoprire se ci sono correlazioni
 
 
-# Progetto 3: Soddisfazione dei passeggeri delle compagnie aeree
+# [Progetto 3: Soddisfazione dei passeggeri delle compagnie aeree](https://github.com/micheledeiulio/Progetto-Finale-Data-Science)
 
 In questo progetto ho un dataset contenente diversi fattori che influenzano la soddisfazione dei passeggeri delle compagnie aeree.
 
